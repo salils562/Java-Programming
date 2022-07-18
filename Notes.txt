@@ -1,0 +1,5 @@
+Interpreter --> Interpreter traslate one statement at a time into machine code.
+
+Complier --> It scans entire program and translates whole code of it into machine code.
+
+A java is hybrid language it is both compled and interpreted
