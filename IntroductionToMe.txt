@@ -1,0 +1,12 @@
+Hi I am salil sharma. I am the enginnering student in UIT-RGPV , Bhopal (M.P). I am pursuing B.tech
+in Information Technology, I have completed my 10+2 from Jyoti senior secondary school , Rewa(M.P).
+MY hobbies Include Coding and playing badminton. 
+
+This folder includes all my java programs that I have created till now. So first of all I would like 
+to tell you something about java.
+Java is a pure Object oriented programming language which was made in Sun microsystems. Java was first
+introduced by sir James Gosling and It was first given name as Oak. Then, after It was named java.
+Basically, java is platform independent language, which follows the principle of write once compile anywhere.
+
+Thanks,
+Salil sharma.
